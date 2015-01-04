@@ -114,7 +114,7 @@ class medoo
 $database = new medoo('my_database');
 ```
 
-### 如果 MSSQL
+### 如果用的是 MSSQL
  > 如果你用的是 MSSQL，那么你需要安装额外的扩展。Windows 下安装 pdo_sqlsrv 。Liunx/UNIX 则安装 pdo_dblib 。不建议使用 pdo_mssql ，因为它太古老了，而且即将被踢出 PHP 的家门。
 
 ### For SQLite
