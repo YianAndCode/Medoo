@@ -61,6 +61,4 @@ Medoo is under the MIT License.
 
 * Official website: [http://medoo.in](http://medoo.in)
 
-* Official Documentation: [http://medoo.in/doc](http://medoo.in/doc)
-
-* Documentation in Chinese:[/doc](/doc)
+* Documentation: [http://medoo.in/doc](http://medoo.in/doc)
